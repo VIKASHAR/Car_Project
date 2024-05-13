@@ -172,10 +172,10 @@ Registeration Number : 212222040179
 
 ## OUTPUT
 
-![IMG-20240513-WA0013](https://github.com/VIKASHAR/Car_Project/assets/119405655/5fb0705b-bd3d-4f19-9f2b-fbcfc7bbe297)
-![IMG-20240513-WA0014](https://github.com/VIKASHAR/Car_Project/assets/119405655/67129ea3-7f83-429e-8e2a-faf2550d5015)
-![IMG-20240513-WA0016](https://github.com/VIKASHAR/Car_Project/assets/119405655/1f74e8be-df35-41b5-9eff-13b53787fd0a)
-![IMG-20240513-WA0015](https://github.com/VIKASHAR/Car_Project/assets/119405655/1a29eb13-265a-4957-882a-92e72798a382)
+![Screenshot 2024-05-13 224156](https://github.com/VIKASHAR/Car_Project/assets/119405655/3914fdcb-b1ca-4314-9872-1acffc94a03c)
+![Screenshot 2024-05-13 224147](https://github.com/VIKASHAR/Car_Project/assets/119405655/f7ee3cbe-f4b7-4b02-be53-73d4e2525b5a)
+![Screenshot 2024-05-13 223809](https://github.com/VIKASHAR/Car_Project/assets/119405655/feeea6f3-4e94-48ee-8f66-912f703b36e4)
+![Screenshot 2024-05-13 223728](https://github.com/VIKASHAR/Car_Project/assets/119405655/c8568e2e-00e5-41a4-8cb1-c3c4f39d253d)
 
 ## RESULT
 Thus a Simple Android Application to displays the car name and image using Android Studio is developed and executed successfully.
